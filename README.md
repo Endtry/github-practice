@@ -22,4 +22,6 @@ git commit -m "your message goes here"
 ## Pushing your committed changes
 git push origin branch-name
 
+```
 Workflow is ADD, COMMIT and PUSH
+```
